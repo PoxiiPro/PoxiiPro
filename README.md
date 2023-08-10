@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @PoxiiPro or Nathan
-- 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I am a University of California Santa Cruz computer science graduate with programming experience in artificial intelligence, machine learning, natural language processing, mobile apps, and full stack web apps looking for opportunities.
 
 <!---
 PoxiiPro/PoxiiPro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
